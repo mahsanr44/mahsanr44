@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahsanr44
-- 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Java.
+- 👀 I’m interested in Programming.
+- 🌱 I’m currently learning Java. Done before C++, Python, Web development(HTML,CSS,PHP,JAVASCRIPT)(Wordpress) & SEO.
 - 💞️ I’m looking to collaborate on different projects.
 - 📫 How to reach me mahsanr44@gmail.com
 
