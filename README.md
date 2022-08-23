@@ -8,11 +8,8 @@
 ![Ahsan's github stats](https://github-readme-stats.vercel.app/api?username=mahsanr44&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahsanr44&layout=compact&hide_border=true)
 
-
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
 <p align="center"> 
-  Visitor count<br>
+  Visitor Count<br>
   <img src="https://profile-counter.glitch.me/mahsanr44/count.svg" />
 </p>
 <!---
