@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on different projects related to IT Field...
 - 📫 How to reach me:
 - Email: mahsanr44@gmail.com
-- LinkedIn: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahsanr44)
+-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahsanr44)
 ###  About my GitHub: 👇🏻
 
 ![Ahsan's github stats](https://github-readme-stats.vercel.app/api?username=mahsanr44&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
