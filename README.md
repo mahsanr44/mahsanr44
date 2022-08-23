@@ -13,7 +13,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Rehan-05/count.svg" />
+  <img src="https://profile-counter.glitch.me/mahsanr44/count.svg" />
 </p>
 <!---
 mahsanr44/mahsanr44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
