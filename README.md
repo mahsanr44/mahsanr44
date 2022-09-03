@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Ahsan Raza.
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning ```PHP Laravel```.
+- 🌱 I’m currently learning ```PHP Laravel/JS```.
 - 💞️ I’m looking to collaborate on different projects related to IT Field...
 - 📫 How to reach me:
 - Email: mahsanr44@gmail.com
