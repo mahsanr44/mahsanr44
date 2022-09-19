@@ -12,6 +12,8 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahsanr44&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mahsanr44" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/mahsanr44?trk=profile-badge">Ahsan Raza</a></div>
               <br>
 
