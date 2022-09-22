@@ -20,12 +20,13 @@
 
 ![Ahsan's github stats](https://github-readme-stats.vercel.app/api?username=mahsanr44&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahsanr44&layout=compact&hide_border=true)
+-->
 <br>
 <hr>
 <p align="center"> 
   Total Visitors on Ahsan's Profile<br>
   <img src="https://profile-counter.glitch.me/mahsanr44/count.svg" />
-</p> -->
+</p> 
 <!---
 mahsanr44/mahsanr44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
