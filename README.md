@@ -15,12 +15,12 @@
 <a href="https://github.com/mahsanr44">
   <img align="center" style="margin:1.0rem" src="https://github-readme-stats.vercel.app/api?username=mahsanr44&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Ahsan's GitHub Stats" />
 </a>
-
+<!-- 
  ###  About my GitHub: 👇🏻
 
 ![Ahsan's github stats](https://github-readme-stats.vercel.app/api?username=mahsanr44&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahsanr44&layout=compact&hide_border=true)
-
+ -->
 <br>
 <hr>
 <p align="center"> 
