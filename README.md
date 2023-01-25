@@ -3,7 +3,7 @@
 - 🌱 I’m a ```Web Developer```.
 - 💞️ I’m looking to collaborate on different web development projects.
 - 📫 How to reach me:
-- Email: mahsanr44@gmail.com  <hr>
+- Email: mahsanr44@gmail.com  
  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahsanr44)
 <hr>
 
