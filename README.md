@@ -1,6 +1,5 @@
 ### 👋 Hi, I’m Ahsan Raza.
-- 👀 I’m interested in Programming.
-- 🌱 I’m a ```Web Developer```.
+- 🌱 I’m a ```Full Stack Web Developer```.
 - 💞️ I’m looking to collaborate on different web development projects.
 - 📫 How to reach me:
 - Email: mahsanr44@gmail.com  
