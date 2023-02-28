@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Ahsan Raza.
+### 👋 I’m Ahsan Raza.
 - 🌱 I’m a ```Full Stack Web Developer```.
 - 💞️ I’m looking to collaborate on different web development projects.
 <hr>
