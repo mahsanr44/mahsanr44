@@ -1,10 +1,6 @@
 # 💫 About Me:
 I'm <b>M. Ahsan Raza</b> a Full-Stack Web Developer having experience in building responsive and user-friendly websites. I have strong skills in HTML, CSS, JavaScript, PHP, and various web development frameworks like React JS, Node JS, Next JS, PHP Laravel, and Databases like MySQL and MongoDB. I have also experience in building APIs for Mobile Apps. I love to learn new technologies and currently I'm learning about Web 3.0 and Metaverse (Blockchain Technology).
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 # 🌐 My Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ah54n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahsanr44) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mahsanr44) 
 
@@ -42,8 +38,13 @@ I'm <b>M. Ahsan Raza</b> a Full-Stack Web Developer having experience in buildin
 <a href="https://github.com/mahsanr44">
   <img align="center" style="margin:1.0rem" src="https://github-readme-stats.vercel.app/api?username=mahsanr44&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Ahsan's GitHub Stats" />
 </a>
-<br/>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahsanr44&theme=vue-dark)](https://git.io/streak-stats)
+<hr>
+<p align="center"> 
+  Total Visitors on Ahsan's Profile<br>
+  <img src="https://profile-counter.glitch.me/mahsanr44/count.svg" />
+</p> 
 
 ## 🐦 My Latest Tweet
 [![](https://gtce.itsvg.in/api?username=mahsanr44)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
