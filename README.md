@@ -46,5 +46,6 @@ I'm <b>M. Ahsan Raza</b> a Full-Stack Web Developer having experience in buildin
   <img src="https://profile-counter.glitch.me/mahsanr44/count.svg" />
 </p> 
 
-## 🐦 My Latest Tweet
+<!-- ## 🐦 My Latest Tweet
 [![](https://gtce.itsvg.in/api?username=mahsanr44)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+ -->
