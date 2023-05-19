@@ -2,7 +2,7 @@
 I'm <b>M. Ahsan Raza</b> a Full-Stack Web Developer having experience in building responsive and user-friendly websites. I have strong skills in HTML, CSS, JavaScript, PHP, and various web development frameworks like React JS, Node JS, Next JS, PHP Laravel, and Databases like MySQL and MongoDB. I have also experience in building APIs for Mobile Apps. I love to learn new technologies and currently I'm learning about Web 3.0 and Metaverse (Blockchain Technology).
 
 # 🌐 My Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ah54n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahsanr44) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mahsanr44) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ah54n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahsanr44) [![Whatsapp](https://img.shields.io/badge/Whatsapp-%232CD46C.svg?logo=Whatsapp&logoColor=white)](https://wa.me/+923085904540) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mahsanr44) 
 
 # 💻 Tech Stack:
  
