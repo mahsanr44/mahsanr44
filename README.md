@@ -1,15 +1,17 @@
 # 💫 About Me:
 I'm <b>Muhammad Ahsan Raza</b> a Full-Stack Web Developer having experience in building responsive and user-friendly websites. I have strong skills in HTML, CSS, JavaScript, PHP, and web development frameworks like React JS, Node JS, Next JS, PHP Laravel, and Databases like MySQL and MongoDB. I also have experience in building APIs for Mobile Apps. I love learning new technologies and am currently learning about Web 3.0 and Metaverse (Blockchain Technology).
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 # 🌐 My Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/mahsanr44)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ah54n) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahsanr44) 
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-%232CD46C.svg?logo=Whatsapp&logoColor=white)](https://wa.me/+923085904540) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mahsanr44) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mahsanr44)
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 # 💻 Tech Stack:
- 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,6 +36,8 @@ I'm <b>Muhammad Ahsan Raza</b> a Full-Stack Web Developer having experience in b
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 # 📊 GitHub Stats:
 <a href="https://github.com/mahsanr44">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahsanr44&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -44,11 +48,15 @@ I'm <b>Muhammad Ahsan Raza</b> a Full-Stack Web Developer having experience in b
 </a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahsanr44&theme=vue-dark)](https://git.io/streak-stats)
-<hr>
+<br/>
+<br/>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<br/>
 <p align="center"> 
   Total Visitors on Ahsan's Profile<br>
   <img src="https://profile-counter.glitch.me/mahsanr44/count.svg" />
 </p> 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- ## 🐦 My Latest Tweet
 [![](https://gtce.itsvg.in/api?username=mahsanr44)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
