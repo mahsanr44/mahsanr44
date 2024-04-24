@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm <b>Muhammad Ahsan Raza</b> a Full-Stack Web Developer having experience in building responsive and user-friendly websites. I have strong skills in HTML, CSS, JavaScript, PHP, and web development frameworks like React JS, Node JS, Next JS, PHP Laravel, and Databases like MySQL and MongoDB. I also have experience in building APIs for Mobile Apps. I love learning new technologies and am currently learning about Web 3.0 and Metaverse (Blockchain Technology).
+A Dedicated Software Engineer with a proven track record of developing responsive and user-friendly web applications. Proficient in a wide array of modern technologies, including Next.js, React.js, Node.js, Nest.js, PHP Laravel, CodeIgniter, and Xataface. With a solid foundation in both front-end and back-end development, I specialize in crafting efficient and scalable solutions tailored to meet the unique needs of enterprise clients. Due to my experience in enterprise solutions, I understand the complexities and challenges inherent in large-scale projects.
+Driven by a relentless pursuit of excellence, I continuously seek opportunities to expand my skill set and stay ahead of industry trends. My commitment to delivering exceptional results is evident in my collaborative approach to problem-solving and achieving project objectives.
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 # 🌐 My Socials:
