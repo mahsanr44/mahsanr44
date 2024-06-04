@@ -3,10 +3,6 @@ A Dedicated Software Engineer with a proven track record of developing responsiv
 Driven by a relentless pursuit of excellence, I continuously seek opportunities to expand my skill set and stay ahead of industry trends. My commitment to delivering exceptional results is evident in my collaborative approach to problem-solving and achieving project objectives.
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-# 🌐 My Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ah54n) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahsanr44) 
-
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 # 💻 Tech Stack:
