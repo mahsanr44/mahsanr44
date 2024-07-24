@@ -3,7 +3,6 @@ A Dedicated Software Engineer with a proven track record of developing responsiv
 Driven by a relentless pursuit of excellence, I continuously seek opportunities to expand my skill set and stay ahead of industry trends. My commitment to delivering exceptional results is evident in my collaborative approach to problem-solving and achieving project objectives.
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
